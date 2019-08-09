@@ -29,5 +29,5 @@ For linux:
 
 > python3 DAADCourseSearch.py
 
-#Troubleshooting
+# Troubleshooting
 If there are any problem with chromedriver download the latest version from here https://chromedriver.chromium.org/ and replace it with the given file. Yet, if you face any problems message me here: https://www.messenger.com/t/orfiaz
