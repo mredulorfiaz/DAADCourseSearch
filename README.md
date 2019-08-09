@@ -1,6 +1,8 @@
 # DAAD Course Search
 This is a python3 program to scrape desired course from daad.de You can get as many course details as possible from here. You will get University Name, Course Name and DAAD URL of as many courses as you needed.
 
+A text file will be generated with the name 'uni.txt'. There you will be able to see all the outputs
+
 # How to Use
 This program is based on Python 3. You can downlaod Python 3 from here: https://www.python.org/
 
