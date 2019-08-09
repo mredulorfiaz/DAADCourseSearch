@@ -9,10 +9,10 @@ This program is based on Python 3. You can downlaod Python 3 from here: https://
 Then, You need to install required python modules.
 
 For windows:
-> pip install -m selenium
+> pip install selenium
 
 For Linux:
-> pip3 install -m selenium
+> pip3 install selenium
 
 
 Then clone the repository.
